@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Tone Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Email Tone Generator</h1>
+        <textarea id="userInput" placeholder="Enter your message..."></textarea>
+        
+        <label for="toneSelect">Select Tone:</label>
+        <select id="toneSelect">
+            <option value="Formal">Formal</option>
+            <option value="Polite">Polite</option>
+            <option value="Causal">Friendly</option>
+            <option value="Direct">Direct</option>
+        </select>
+
+        <button id="generateBtn">Generate</button>
+
+        <div id="outputContainer">
+            <h2>Generated Email:</h2>
+            <p id="outputText"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
