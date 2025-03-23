@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java, Spring Boot, Hibernate  
+- **Backend:** Java, Spring Boot 
 - **API:** AI-powered email response engine  
 
 ## 👨‍💻 Roles & Contributors  
