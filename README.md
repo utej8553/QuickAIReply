@@ -21,4 +21,4 @@
 ## 🏗️ Installation & Setup  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/QuickAIReply.git  
+   git clone https://github.com/utej8553/QuickAIReply.git  
