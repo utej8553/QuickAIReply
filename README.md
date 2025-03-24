@@ -3,6 +3,12 @@
 ## 🚀 About the Project  
 **QuickAIReply** is an AI-powered email response generator designed to craft professional, polite, casual, or direct email replies instantly. It helps users save time by generating contextually relevant responses with just one click.  
 
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/utej8553/QuickAIReply/main/Screen%20Recording%202025-03-24%20233050.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## ✨ Features  
 - ✉️ **AI-Powered Email Replies** – Generate smart and relevant responses based on email content.  
 - 🎯 **Customizable Tones** – Choose from **Formal, Polite, Casual, or Direct** replies.  
